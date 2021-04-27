@@ -1,0 +1,93 @@
+.idea
+.vscode
+build
+cmake-build-debug
+main
+
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps
+
+Skip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+
+@7Z0nE
+github
+/
+gitignore
+3.2k
+117k
+64.5k
+Code
+Pull requests
+322
+Actions
+Projects
+Security
+Insights
+gitignore/C++.gitignore
+
+pmartinez added prerequisites for C and C++
+Latest commit 2c52d02 on Jun 29, 2016
+ History
+ 8 contributors
+@malleor@peterfpeterson@rhysd@jlokimlin@bnoordhuis@d2s@mrtazz@starrify
+32 lines (26 sloc)  270 Bytes
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
